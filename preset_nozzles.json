@@ -1,0 +1,12 @@
+{
+  "hunter": [
+    { "model": "MP1000", "debit": 0.34, "raza": "2.5-4.5 m" },
+    { "model": "MP2000", "debit": 0.75, "raza": "4-6.4 m" },
+    { "model": "MP3000", "debit": 1.24, "raza": "6.7-9.1 m" }
+  ],
+  "rainbird": [
+    { "model": "U-8", "debit": 0.49, "raza": "2.4-3.7 m" },
+    { "model": "U-10", "debit": 0.61, "raza": "2.7-4.3 m" },
+    { "model": "U-12", "debit": 0.75, "raza": "3.0-4.6 m" }
+  ]
+}
